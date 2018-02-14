@@ -8,3 +8,20 @@
     * Webpack
     * Grun/Gulp
 5. Angular Installation & Setup
+6. Architecture of Angular
+7. Modules
+    * Declaration
+    * Exports
+    * Imports
+    * Bootstrap
+8. Components
+9. Components Communications
+    * @input()
+    * @output()
+    * rxjs
+9. Templates
+10. Data Binding
+    * Two-Way binding
+    * One-Way binding
+    * One-time binding
+11. Directives
